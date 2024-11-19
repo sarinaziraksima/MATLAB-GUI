@@ -9,6 +9,4 @@ n: number of bits generated
 Tb: duration of each bit sent by a pulse 
 Reference signal: rectangular with a duty cycle of 20% or 50%, cosine, sawtooth, or triangular wave.
 
-Note: 
--Since the numbers are normalized, the initial values for the duration of each bit should not contain a floating point. 
--This project is coded and tested in MATLAB R2019b.
+Note: Since the numbers are normalized, the initial values for the duration of each bit should not contain a floating point. This project is coded and tested in MATLAB R2019b.
